@@ -128,29 +128,29 @@ meu_servidor/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\meu_servidor.dir\build.make CMakeFiles/meu_servidor.dir/build
 .PHONY : meu_servidor/fast
 
-servTest.obj: servTest.cpp.obj
-.PHONY : servTest.obj
+main.obj: main.cpp.obj
+.PHONY : main.obj
 
 # target to build an object file
-servTest.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\meu_servidor.dir\build.make CMakeFiles/meu_servidor.dir/servTest.cpp.obj
-.PHONY : servTest.cpp.obj
+main.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\meu_servidor.dir\build.make CMakeFiles/meu_servidor.dir/main.cpp.obj
+.PHONY : main.cpp.obj
 
-servTest.i: servTest.cpp.i
-.PHONY : servTest.i
+main.i: main.cpp.i
+.PHONY : main.i
 
 # target to preprocess a source file
-servTest.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\meu_servidor.dir\build.make CMakeFiles/meu_servidor.dir/servTest.cpp.i
-.PHONY : servTest.cpp.i
+main.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\meu_servidor.dir\build.make CMakeFiles/meu_servidor.dir/main.cpp.i
+.PHONY : main.cpp.i
 
-servTest.s: servTest.cpp.s
-.PHONY : servTest.s
+main.s: main.cpp.s
+.PHONY : main.s
 
 # target to generate assembly for a file
-servTest.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\meu_servidor.dir\build.make CMakeFiles/meu_servidor.dir/servTest.cpp.s
-.PHONY : servTest.cpp.s
+main.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\meu_servidor.dir\build.make CMakeFiles/meu_servidor.dir/main.cpp.s
+.PHONY : main.cpp.s
 
 # Help Target
 help:
@@ -161,9 +161,9 @@ help:
 	@echo ... edit_cache
 	@echo ... rebuild_cache
 	@echo ... meu_servidor
-	@echo ... servTest.obj
-	@echo ... servTest.i
-	@echo ... servTest.s
+	@echo ... main.obj
+	@echo ... main.i
+	@echo ... main.s
 .PHONY : help
 
 

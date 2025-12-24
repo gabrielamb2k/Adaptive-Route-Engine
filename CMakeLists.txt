@@ -8,7 +8,7 @@ project(ProjetoRotas)
 
 find_package(Crow CONFIG REQUIRED)
 
-add_executable(meu_servidor servTest.cpp)
+add_executable(meu_servidor main.cpp)
 
 # --- CORREÇÃO AQUI ---
 # Adicionamos 'ws2_32' e 'wsock32' no final
