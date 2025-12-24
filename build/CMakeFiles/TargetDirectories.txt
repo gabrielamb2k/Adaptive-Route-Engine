@@ -1,0 +1,3 @@
+C:/Users/gambo/OneDrive/Documentos/ProjetoRotas/build/CMakeFiles/meu_servidor.dir
+C:/Users/gambo/OneDrive/Documentos/ProjetoRotas/build/CMakeFiles/edit_cache.dir
+C:/Users/gambo/OneDrive/Documentos/ProjetoRotas/build/CMakeFiles/rebuild_cache.dir

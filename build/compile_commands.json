@@ -1,0 +1,8 @@
+[
+{
+  "directory": "C:/Users/gambo/OneDrive/Documentos/ProjetoRotas/build",
+  "command": "C:\\mingw64\\bin\\g++.exe -DASIO_NO_DEPRECATED -DASIO_STANDALONE @CMakeFiles/meu_servidor.dir/includes_CXX.rsp -g -o CMakeFiles\\meu_servidor.dir\\servTest.cpp.obj -c C:\\Users\\gambo\\OneDrive\\Documentos\\ProjetoRotas\\servTest.cpp",
+  "file": "C:/Users/gambo/OneDrive/Documentos/ProjetoRotas/servTest.cpp",
+  "output": "CMakeFiles/meu_servidor.dir/servTest.cpp.obj"
+}
+]
